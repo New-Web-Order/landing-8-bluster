@@ -1,0 +1,132 @@
+{
+    "navbar": {
+        "links": [
+          { "name": "About Us", "href": "#about-us"  },
+          { "name": "Features", "href": "#features"  },
+          { "name": "Subscribe", "href": "#subscribe"  },
+          { "name": "Cta", "href": "#cta"  }
+        ],
+        "buttonText": "Contact Us",
+        "buttonTextTwo": "Call Us 1900 123 654",
+        "logoText": "Blustor",
+        "one": "1",
+        "two": "2",
+        "telephone": "(225) 555-0118"
+      },
+      "heroSection": {
+        "headingOne": "SUMMER 2024",
+        "heading": "NEW COLLECTION",
+        "subheading": "We know how large objects will act, but things on a small scale.",
+        "buttonText": "SHOP NOW",
+        "buttonTextTwo": "Learn More"
+      },
+      "featureOne": {
+        "tag": "Feature",
+        "heading": "World-class Preventive, Prescriptive & Curative Medical Practices",
+        "buttonText": "CONTACT NOW",
+        "subText": "Explore our advanced medical services designed to enhance your health and well-being. Trust in our expertise for your medical needs"
+      },
+      "featureTwo": {
+        "heading": "Subscribe For Latest Newsletter",
+        "buttonText": "Learn More!",
+        "subText": "The gradual accumulation of information about atomic and small-scale behavior during the first quarter of the 20th "
+      },
+
+      "cta": {
+        "heading": "Success Stories",
+        "subheading":"Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics ",
+        "buttonText": "Share your story"
+      },
+      "features": {
+      "tag":"Features",
+      "headingOne":"Featured Products",
+      "mainText":"Lorem ipsum dolor sit amet consectetur. Luctus in etiam enim lorem nulla cursus curabitur porta pharetra.",
+      
+        "cardInfo":[
+          {
+            "image":"/assets/images/feature-image.png",
+            "title":"Domestic violence",
+            "description":"Know your rights. we will take care about the rest."
+            
+          },
+          {
+            "image":"/assets/images/feature-image.png",
+            "title":"Securities law",
+            "description":"Navigating complex securities for financial fecurity"
+            
+          },
+          {
+            "image":"/assets/images/feature-image.png",
+            "title":"Liberty Defended",
+            "description":"Protecting your rights with strategic solutions "
+            
+          },
+          {
+            "image":"/assets/images/feature-image.png",
+            "title":"Federal crimes",
+            "description":"Defending your rights against federal charges"
+            
+          }
+        ]
+      },
+      "footer": {
+        "contactHeading":"Get In Touch",
+        "exploreHeading":"Company info",
+        "aboutHeading":"Features",
+        "servicesHeading":"Services",
+
+
+        "endLinks": [
+          {"name": "Privacy Policy", "href": "#"},
+          {"name": "Terms of Service", "href": "#"},
+          {"name": "Cookies Settings", "href": "#"}
+
+          
+          
+                 
+        ],
+          "serviceLinks": [
+            {"name": "Care", "href": "#"},
+            {"name": "Heal", "href": "#"},
+            {"name": "Learn", "href": "#"},
+            {"name": "Connect", "href": "#"},
+            {"name": "Support", "href": "#"}
+
+          ],
+          
+          "aboutLinks": [
+            {"name": "Business Marketing", "href": "#"},
+            {"name": "User Analytic", "href": "#"},
+            {"name": "Live Chat", "href": "#"},
+            {"name": "Unlimited Support", "href": "#"}
+
+          ],
+          "topLinks": [
+            {"name": "+44 736-085-6434", "href": "https://www.newweborder.co"},
+            {"name": "contact@newweborder.co", "href": "https://www.newweborder.co"}
+
+          ],
+          "exploreLinks": [
+            {"name": "About Us", "href": "#"},
+            {"name": "Carrier", "href": "#"},
+            {"name": "OPD", "href": "#"},
+            {"name": "We are hiring", "href": "#"},
+            {"name": "Blog", "href": "#"}
+
+          ],
+
+          "SocialMediaLinks": [
+            {"name": "facebook", "href": "https://www.facebook.com/NewWebOrder1"},
+            {"name": "instagram", "href": "https://www.instagram.com/newweborderltd/?igshid=NTc4MTIwNjQ2YQ%3D%3D"},
+            {"name": "linkedin", "href": "https://www.linkedin.com/company/newweborder"}
+          ]
+          
+
+
+
+
+        
+      }
+
+
+}
